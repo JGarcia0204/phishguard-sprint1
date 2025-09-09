@@ -1,5 +1,5 @@
 
-# PhishGuard – Sprint 1 Demo
+#PhishGuard, phishing awareness aoo– Sprint 1 Demo
 
 Run:
 ```bash
@@ -24,3 +24,5 @@ Endpoints:
 - POST /api/users (create demo user)
 - POST /api/report (save report)
 - GET /api/healthz (check DB seeded)
+
+Sprint 1 complete
