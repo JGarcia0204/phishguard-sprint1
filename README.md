@@ -1,5 +1,5 @@
 
-#PhishGuard, phishing awareness aoo– Sprint 1 Demo
+#PhishGuard, phishing awareness app– Sprint 1 Demo
 
 Run:
 ```bash
